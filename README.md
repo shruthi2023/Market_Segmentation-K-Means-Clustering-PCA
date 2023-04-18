@@ -53,5 +53,5 @@ Steps Involved ---->
 
 23. Saving the Decision tree model for future prediction
 
-24. created a Streamlit Application based on this clustering technique, Taking the store details & identifying which cluster the store belongs to.
+24. Created a Streamlit Application based on this clustering technique, Taking the store details & identifying which cluster the store belongs to.
 
